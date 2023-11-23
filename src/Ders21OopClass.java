@@ -19,6 +19,7 @@ public class Ders21OopClass {
         nesne yönelimli programlamanın avantajlarından yararlanmak ve kodu daha düzenli ve
         sürdürülebilir hale getirmektir. Nesne yönelimli programlama, kodu sınıflara ve nesnelere
         bölerek daha modüler, anlaşılabilir ve bakımı kolay bir yapı oluşturmanıza olanak tanır.
+
          */
 
     }
