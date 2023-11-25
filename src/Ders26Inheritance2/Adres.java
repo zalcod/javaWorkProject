@@ -1,4 +1,4 @@
-package Ders25Inheritance3;
+package Ders26Inheritance2;
 
 public class Adres {
     String il;

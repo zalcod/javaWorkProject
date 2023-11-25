@@ -1,14 +1,19 @@
-package Ders25Inheritance2;
+package Ders28Polymorphism;
 
 public class Ogrenci extends Kisi {
     private String ogrNo;
     private String sube;
 
-       public Ogrenci(String TCKimlik, String ad, String soyad, String ogrNo, String sube) {
-            super(TCKimlik, ad, soyad);
-            this.ogrNo = ogrNo;
-            this.sube = sube;
-        }
+    @Override
+    public void show() {
+        System.out.println("Ogrenci.show() çağrıldı");
+    }
+
+    public Ogrenci(String TCKimlik, String Ad, String Soyad, String ogrNo, String sube) {
+        super(TCKimlik, Ad, Soyad);
+        this.ogrNo = ogrNo;
+        this.sube = sube;
+    }
 
     public String getOgrNo() {
         return ogrNo;

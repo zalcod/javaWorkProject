@@ -1,4 +1,4 @@
-package Ders25Inheritance2;
+package Ders27Inheritance3;
 
 public class Ogretmen extends Kisi {
     String brans;

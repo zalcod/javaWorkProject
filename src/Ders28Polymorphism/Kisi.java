@@ -1,22 +1,22 @@
-package Ders25Inheritance3;
+package Ders28Polymorphism;
 
 public class Kisi {
     private String TCKimlik;
     private String Ad;
     private String Soyad;
 
-    public Kisi(String TCKimlik, String ad, String soyad) {
-        this.TCKimlik = TCKimlik;
-        Ad = ad;
-        Soyad = soyad;
+    public void show() {
+        System.out.println("Kisi.show() çağrıldı");
     }
 
-    public  void show (){
-        System.out.println(this.TCKimlik);
-        System.out.println(this.Ad);
-        System.out.println(this.Soyad);
+    public Kisi(String TCKimlik, String Ad, String Soyad) {
+        this.TCKimlik = TCKimlik;
+        this.Ad = Ad;
+        this.Soyad = Soyad;
     }
-    public String getTCKimlik() { return TCKimlik;
+
+    public String getTCKimlik() {
+        return TCKimlik;
     }
 
     public void setTCKimlik(String TCKimlik) {

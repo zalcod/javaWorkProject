@@ -4,23 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc622488-c098-4249-9a68-067b7df99ad9" name="Changes" comment="Encapsulation Added">
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance1/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance1/AnaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance1/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance1/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance1/Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance2/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance2/AnaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance2/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance2/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance2/Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance3/Adres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance3/AnaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance3/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance3/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders25Inheritance3/Ogretmen.java" afterDir="false" />
+    <list default="true" id="bc622488-c098-4249-9a68-067b7df99ad9" name="Changes" comment="Inheritance">
+      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/AnaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/Ogretmen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Adres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/AnaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Kisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Ogretmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Ogretmen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Adres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/AnaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/Kisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/Ogrenci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Ogretmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/Ogretmen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ders25Inheritance3.AnaClass">
+  <component name="RunManager" selected="Application.Ders27Inheritance3.AnaClass">
     <configuration name="AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders23.AnaClass" />
       <module name="javaWorkProject" />
@@ -120,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ders25Inheritance2.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders25Inheritance2.AnaClass" />
+    <configuration name="Ders26Inheritance2.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders26Inheritance2.AnaClass" />
       <module name="javaWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders25Inheritance2.*" />
+          <option name="PATTERN" value="Ders26Inheritance2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ders25Inheritance3.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders25Inheritance3.AnaClass" />
+    <configuration name="Ders27Inheritance3.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders27Inheritance3.AnaClass" />
       <module name="javaWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders25Inheritance3.*" />
+          <option name="PATTERN" value="Ders27Inheritance3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ders25Inheritance3.AnaClass" />
-        <item itemvalue="Application.Ders25Inheritance2.AnaClass" />
+        <item itemvalue="Application.Ders27Inheritance3.AnaClass" />
+        <item itemvalue="Application.Ders26Inheritance2.AnaClass" />
         <item itemvalue="Application.Ders25Inheritance1.AnaClass" />
         <item itemvalue="Application.Ders24Encapsulation.AnaClass" />
         <item itemvalue="Application.AnaClass" />
@@ -165,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700717357229</updated>
       <workItem from="1700717358280" duration="7628000" />
-      <workItem from="1700892916055" duration="10145000" />
+      <workItem from="1700892916055" duration="11306000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -199,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700902866563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Inheritance">
+      <option name="closed" value="true" />
+      <created>1700917376499</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700917376499</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +216,7 @@
     <MESSAGE value="committ" />
     <MESSAGE value="commit" />
     <MESSAGE value="Encapsulation Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation Added" />
+    <MESSAGE value="Inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package Ders25Inheritance2;
+package Ders27Inheritance3;
 
 public class Kisi {
     private String TCKimlik;
@@ -11,8 +11,12 @@ public class Kisi {
         Soyad = soyad;
     }
 
-    public String getTCKimlik() {
-        return TCKimlik;
+    public  void show (){
+        System.out.println(this.TCKimlik);
+        System.out.println(this.Ad);
+        System.out.println(this.Soyad);
+    }
+    public String getTCKimlik() { return TCKimlik;
     }
 
     public void setTCKimlik(String TCKimlik) {

@@ -1,15 +1,9 @@
-package Ders25Inheritance3;
+package Ders26Inheritance2;
 
 public class Ogrenci extends Kisi {
     private String ogrNo;
     private String sube;
 
-    @Override
-    public void show() {
-        super.show(); // biz super ile kalıtım aldığımız sınıfın metotlarını kullanabiliriz.
-        System.out.println(this.ogrNo);
-        System.out.println(this.sube);
-    }
        public Ogrenci(String TCKimlik, String ad, String soyad, String ogrNo, String sube) {
             super(TCKimlik, ad, soyad);
             this.ogrNo = ogrNo;

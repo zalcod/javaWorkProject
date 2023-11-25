@@ -1,4 +1,4 @@
-package Ders25Inheritance2;
+package Ders26Inheritance2;
 
 public class AnaClass {
     public static void main(String[] args) {
