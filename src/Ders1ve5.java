@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AnaClass {
+public class Ders1ve5 {
     public static void main(String[] args) {
         /// 1. Ders Java'da proje ve class oluşturma
         System.out.println("Java Dersleri Basladi");

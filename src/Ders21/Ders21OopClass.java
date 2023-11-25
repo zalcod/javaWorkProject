@@ -1,3 +1,5 @@
+package Ders21;
+
 public class Ders21OopClass {
     public static void main(String[] args) {
         /// 21. Ders OOP ve Class Yapısı
@@ -21,6 +23,25 @@ public class Ders21OopClass {
         bölerek daha modüler, anlaşılabilir ve bakımı kolay bir yapı oluşturmanıza olanak tanır.
 
          */
+        Ders21Adress adr = new Ders21Adress();
+        adr.cadde = "Kazım Karabekir";
+        adr.blok = "A";
+        adr.no = "5";
+        adr.sehir = "İstanbul";
+        adr.ülke = "Bursa";
+
+        System.out.println("Adres: " + adr.cadde + " " + adr.blok + " " + adr.no + " " + adr.sehir + " " + adr.ülke);
+
+        Ders21Ogrenci ogr = new Ders21Ogrenci();
+        ogr.adi = "Zal";
+        ogr.soyadi = "Solmus";
+        ogr.oAdres = adr;
+
+        System.out.println("Öğrenci Adı: " + ogr.adi + " " + ogr.soyadi + " " + ogr.oAdres.sehir);
+
+        // Bu kısımda biz doğrudan eriştik sınıflarımıza ancak bu istenmeyen bir yöntemdir. İlerleyen
+        // derslerde bu konuyu daha detaylı işleyeceğiz. Private sınıflar ile tanışacağız.
+
 
     }
 }
