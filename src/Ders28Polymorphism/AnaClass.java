@@ -3,7 +3,7 @@ package Ders28Polymorphism;
 import java.util.ArrayList;
 
 public class AnaClass {
-    protected int tt;
+
     public static void main(String[] args) {
         /// Ders 28 Polymorphism (Çok Biçimlilik)
 

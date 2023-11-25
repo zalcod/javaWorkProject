@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc622488-c098-4249-9a68-067b7df99ad9" name="Changes" comment="Inheritance">
-      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/AnaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/Ogretmen.java" afterDir="false" />
+    <list default="true" id="bc622488-c098-4249-9a68-067b7df99ad9" name="Changes" comment="Polymorphism">
+      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/AnaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/Kisi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/Ogretmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders30Interface/Ders30Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders30Interface/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders31Collection/AnaClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Adres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Adres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/AnaClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Kisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance2/Ogretmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders26Inheritance2/Ogretmen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Adres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/AnaClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Kisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/Kisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders25Inheritance3/Ogretmen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders27Inheritance3/Ogretmen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders28Polymorphism/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/AnaClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -58,7 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/zal/IdeaProjects/javaWorkProject/src/Ders25Inheritance3",
+    "last_opened_file_path": "/Users/zal/IdeaProjects/javaWorkProject/src/Ders29Abstraction",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +66,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Ders29Abstraction" />
       <recent name="$PROJECT_DIR$/src/Ders25Inheritance3" />
       <recent name="$PROJECT_DIR$/src/Ders25Inheritance2" />
       <recent name="$PROJECT_DIR$/src" />
@@ -79,20 +75,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ders27Inheritance3.AnaClass">
-    <configuration name="AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders23.AnaClass" />
-      <module name="javaWorkProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ders23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ders29Abstraction.AnaClass">
     <configuration name="Ders24Encapsulation.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ders24Encapsulation.AnaClass" />
       <module name="javaWorkProject" />
@@ -145,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ders29Abstraction.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders29Abstraction.AnaClass" />
+      <module name="javaWorkProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ders29Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ders29Abstraction.AnaClass" />
         <item itemvalue="Application.Ders27Inheritance3.AnaClass" />
         <item itemvalue="Application.Ders26Inheritance2.AnaClass" />
         <item itemvalue="Application.Ders25Inheritance1.AnaClass" />
         <item itemvalue="Application.Ders24Encapsulation.AnaClass" />
-        <item itemvalue="Application.AnaClass" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700717357229</updated>
       <workItem from="1700717358280" duration="7628000" />
-      <workItem from="1700892916055" duration="11306000" />
+      <workItem from="1700892916055" duration="15454000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -206,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700917376499</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Polymorphism">
+      <option name="closed" value="true" />
+      <created>1700918664689</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700918664689</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +221,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Encapsulation Added" />
     <MESSAGE value="Inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance" />
+    <MESSAGE value="Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
   </component>
 </project>
