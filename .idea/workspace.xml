@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc622488-c098-4249-9a68-067b7df99ad9" name="Changes" comment="Polymorphism">
-      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/AnaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders29Abstraction/Ogretmen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30Interface/Ders30Interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders30Interface/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders31Collection/AnaClass.java" afterDir="false" />
+    <list default="true" id="bc622488-c098-4249-9a68-067b7df99ad9" name="Changes" comment="Collection start...">
+      <change afterPath="$PROJECT_DIR$/src/Ders32HashSet_LinkedHashSet_TreeSet/AnaClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders28Polymorphism/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders28Polymorphism/AnaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ders31Collection/AnaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders31Collection/AnaClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +69,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ders29Abstraction.AnaClass">
-    <configuration name="Ders24Encapsulation.AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ders24Encapsulation.AnaClass" />
+  <component name="RunManager" selected="Application.AnaClass">
+    <configuration name="AnaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ders32HashSet_LinkedHashSet_TreeSet.AnaClass" />
       <module name="javaWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ders24Encapsulation.*" />
+          <option name="PATTERN" value="Ders32HashSet_LinkedHashSet_TreeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnaClass" />
         <item itemvalue="Application.Ders29Abstraction.AnaClass" />
         <item itemvalue="Application.Ders27Inheritance3.AnaClass" />
         <item itemvalue="Application.Ders26Inheritance2.AnaClass" />
         <item itemvalue="Application.Ders25Inheritance1.AnaClass" />
-        <item itemvalue="Application.Ders24Encapsulation.AnaClass" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700717357229</updated>
       <workItem from="1700717358280" duration="7628000" />
-      <workItem from="1700892916055" duration="15454000" />
+      <workItem from="1700892916055" duration="18363000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -210,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700918664689</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Collection start...">
+      <option name="closed" value="true" />
+      <created>1700923527195</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700923527195</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +224,7 @@
     <MESSAGE value="Encapsulation Added" />
     <MESSAGE value="Inheritance" />
     <MESSAGE value="Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
+    <MESSAGE value="Collection start..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Collection start..." />
   </component>
 </project>
