@@ -14,7 +14,7 @@ public class MainClass {
         // Palindrome kontrolü
         String palindromeString = "level";
         boolean isPalindrome = Loops.isPalindrome(palindromeString);
-        System.out.println("Is \"" + palindromeString + "\" a Palindrome? " + isPalindrome);
+        System.out.println("Is \"" + palindromeString + "\" a Palindrome? : " + isPalindrome);
 
         // String büyük harfe dönüştürme
         String lowercaseString = "hello";

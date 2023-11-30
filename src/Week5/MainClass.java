@@ -3,7 +3,7 @@ package Week5;
 public class MainClass {
     public static void main(String[] args) {
         // Employee örneği oluşturma
-        Employee employee1 = new Employee("John Doe");
+        Employee employee1 = new Employee("John Doe", 1000.0);
         // Bilgileri ekrana yazdırma
         System.out.println("Employee Information:");
         System.out.println(employee1.toString());
